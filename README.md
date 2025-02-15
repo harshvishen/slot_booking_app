@@ -1,10 +1,11 @@
-Slot Booking Application
+# Slot Booking Application
 
-Overview
+# Overview
 
 The Slot Booking Application is a user-friendly platform that allows users to configure their availability, view available time slots, and manage their schedules efficiently. The application ensures seamless access with unique usernames and a responsive interface.
 
-Features Implemented
+# Features Implemented
+
 
 Core Features
 
@@ -49,32 +50,24 @@ Bonus Features Implemented
 . Animated Transitions: Smooth animations to improve the user experience.
 
 
-
-Setup and Usage Instructions
-
-Prerequisites
+# Prerequisites
 
 .Node.js (latest LTS version recommended)
 
 .Git
 
+# Installation
 
-
-Installation
-
-# Clone repo
+Clone repo
 git clone https://github.com/yourusername/slot-booking-app.git
 cd slot-booking-app
 
-# Install dependencies
+Install dependencies
 npm install
 
-# Start development server
+Start development server
 npm start
 
-
-
-
-Contribution:
+# Contribution
 
 Contributions are welcome! Feel free to submit pull requests or open issues.
