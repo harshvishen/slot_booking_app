@@ -32,6 +32,21 @@ Responsive UI:
 
 . Uses accessible design principles to enhance usability for all users.
 
+# Screenshot
+
+. Welcome page(Dark Theme)
+![Screenshot 2025-02-15 195153](https://github.com/user-attachments/assets/a40fdedf-afe8-47ba-adb9-0bf521d47a8c)
+
+. Welcome page(Light Theme)
+![Screenshot 2025-02-15 195238](https://github.com/user-attachments/assets/64ea128f-1595-4f86-a11f-192c7623ee34)
+
+. Dashboard
+![Screenshot 2025-02-15 195205](https://github.com/user-attachments/assets/5db676e6-e466-4acf-b60c-14c1a88fc979)
+
+. User Profile 
+![Screenshot 2025-02-15 195218](https://github.com/user-attachments/assets/c33a33c8-b8e4-412b-b689-b401610c6f06)
+
+
 
 Technical Stack
 
